@@ -4,7 +4,7 @@
 
 I build small real-world web apps, then do the DevOps work around them: **containerising them, automating their builds and deployments, putting them behind a reverse proxy and monitoring them in production.**
 
-📍 Nigeria · 🇬🇧 **Open to remote Junior DevOps roles and internships with UK teams**
+📍 Remote ·  **Open to remote Junior DevOps roles and internships**
 📫 **johnslaw2000@gmail.com**
 
 ---
